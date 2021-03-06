@@ -1,3 +1,4 @@
+heroku create myapp --buildpack heroku/python
 import random
 values = ["1", "2", "3", "5", "8", "13", "21"]
 estimates_list = []
